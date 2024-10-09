@@ -74,7 +74,11 @@ Ceci est un outil d'aide mémoire pour tout ce qui est développement logiciel.
             - **OneToOne Annotation in Spring Boot With Hibernate And Jpap.** https://medium.com/@arijit83work/spring-boot-one-to-one-mapping-with-hibernate-and-jpa-226ab865bf46 
             - **Bidirectional Relationship Using @OneToMany/@ManyToOne Annotation In Spring Boot.** https://medium.com/@arijit83work/bidirectional-relationship-using-onetomany-manytoone-annotation-in-spring-boot-3b91980ca222 
             - **OneToMany Annotation In Spring Boot With Hibernate And Jpa.** https://medium.com/@arijit83work/how-to-use-onetomany-annotation-in-spring-boot-with-hibernate-and-jpa-a8e657066c69 
-            - **OneToMany Annotation In Spring Boot With Hibernate And Jpa.** https://medium.com/@arijit83work/how-to-use-onetomany-annotation-in-spring-boot-with-hibernate-and-jpa-a8e657066c69
+            - **OneToMany Annotation In Spring Boot With Hibernate And Jpa.** https://medium.com/@arijit83work/how-to-use-onetomany-annotation-in-spring-boot-with-hibernate-and-jpa-a8e657066c69 
+        - **Java Stream of() Method with Examples.** https://rameshfadatare.medium.com/java-stream-of-method-with-examples-43cbffd91eac 
+        - **Java Stream distinct() Method with Examples.** https://rameshfadatare.medium.com/java-stream-distinct-method-with-examples-2ffc7db4b40e
+        - **Java Stream filter() Examples.** https://rameshfadatare.medium.com/java-stream-filter-examples-7da5c00c3719 
+        - **Dockerizing a Spring Boot Application.** https://rameshfadatare.medium.com/dockerizing-a-spring-boot-application-b2b915e21367
     - **Docker Compose: Spring Boot and Postgres examplec (TRES BON EXEMPLE).** https://dev.to/tienbku/docker-compose-spring-boot-and-postgres-example-4l82 
     - **Java IO Tutorial.** https://mkyong.com/tutorials/java-io-tutorials/
     - **MapStruct.** https://mapstruct.org/
