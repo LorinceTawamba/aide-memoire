@@ -12,6 +12,27 @@ Ceci est un outil d'aide mémoire pour tout ce qui est développement logiciel.
 
 ## Documentation de refference 
 
+ - **Ramesh Fadatare.** https://www.sourcecodeexamples.net/
+    - **Spring Boot Microservices API Gateway Example.** https://rameshfadatare.medium.com/spring-boot-microservices-api-gateway-example-948204ddedcf 
+    - **Spring Boot + Spring Cloud Open Feign Microservices Communication Example.** https://www.javaguides.net/2022/10/spring-boot-microservices-communication-using-spring-cloud-open-feign.html
+    - **Spring Boot Microservices Communication Example using RestTemplate.** https://www.javaguides.net/2022/10/spring-boot-microservices-communication-using-resttemplate.html
+    - **Spring Boot Microservices Communication Example using WebClient.** https://www.javaguides.net/2022/10/spring-boot-microservices-communication-using-webclient.html 
+    - **Spring Boot Microservices - Spring Cloud Config Server.** https://www.javaguides.net/2022/10/spring-boot-microservices-spring-cloud-config-server.html 
+    - **Spring Boot Microservices - Spring Cloud Netflix Eureka based Service Registry.** https://www.javaguides.net/2022/10/spring-boot-microservices-spring-cloud-netflix-eureka-.html 
+    - **Spring Boot Microservices - Spring Cloud API Gateway.** https://www.javaguides.net/2022/10/spring-boot-microservices-spring-cloud-api-gateway.html
+    - **Spring Boot Microservices API Gateway with Automatic Routes Mapping.** https://www.javaguides.net/2024/05/spring-boot-microservices-api-gateway-automatic-routes-mapping.html 
+    - **Spring Cloud API Gateway Global Filter Example - Spring Boot Microservices.** https://www.javaguides.net/2024/05/spring-cloud-api-gateway-global-filter.html 
+    - **Event-Driven Microservices using Spring Boot and Kafka.** https://www.javaguides.net/2022/07/event-driven-microservices-using-spring-boot-and-apache-kafka.html 
+    - **Spring Boot Microservices with RabbitMQ Example.** https://www.sourcecodeexamples.net/2024/05/spring-boot-microservices-with-rabbitmq.html 
+    - **Spring Boot Microservices with Apache Kafka Example.** https://www.sourcecodeexamples.net/2024/05/spring-boot-microservices-with-apache-kafka-example.html
+    - **Spring Boot Microservices REST API Example.** https://www.sourcecodeexamples.net/2024/05/spring-boot-microservices-rest-api.html 
+    - **Spring Boot Microservices with Spring Cloud Stream Example.** https://www.sourcecodeexamples.net/2024/05/spring-boot-microservices-with-spring-cloud-stream-example.html 
+    - **Spring Boot Microservices with Spring Cloud Stream Example.** https://www.sourcecodeexamples.net/2024/05/spring-boot-microservices-with-spring-cloud-stream-example.html 
+    - **Angular Spring Boot Microservices Example.** https://www.javaguides.net/2024/05/angular-spring-boot-microservices.html 
+    - **React JS + Spring Boot Microservices Tutoriale.** https://www.sourcecodeexamples.net/2024/05/react-js-spring-boot-microservices-tutorial.html 
+    - **Java Stream ofNullable() Method with Examples.** https://rameshfadatare.medium.com/java-stream-ofnullable-method-with-examples-d2265648225b
+
+
  - **Source code examples.** https://www.sourcecodeexamples.net/
     - **Spring Boot Microservices E-Commerce Project: Step-by-Step Tutorial.** https://www.sourcecodeexamples.net/2024/05/spring-boot-microservices-e-commerce-project.html 
     - **Spring Boot 3 and Hibernate 6 Example.** https://www.sourcecodeexamples.net/2024/05/spring-boot-3-and-hibernate-6-example.html
