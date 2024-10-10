@@ -47,6 +47,7 @@ Ceci est un outil d'aide mémoire pour tout ce qui est développement logiciel.
         - **Spring Security Architecture Explained with JWT Authentication Example(Spring Boot).** https://medium.com/@dilankacm/spring-security-architecture-explained-with-jwt-authentication-example-spring-boot-5cc583a9aeac 
         - **Unit Testing a Spring Boot service with Mockito and JUnit 5.** https://ashok-s-nair.medium.com/java-unit-testing-a-spring-boot-service-with-mockito-2362a32fe217 
         - **Using Docker Compose with Spring Boot and PostgreSQL.** https://medium.com/@saygiligozde/using-docker-compose-with-spring-boot-and-postgresql-235031106f9f 
+        - **Spring Boot Connect to PostgreSQL Database Examples.** https://www.codejava.net/frameworks/spring-boot/connect-to-postgresql-database-examples 
         - **Spring boot & Postgresql: dockerize your application with external configurations.** https://medium.com/@kouemosylvain/spring-boot-postgresql-dockerize-your-application-with-external-configurations-4ab33e93dc9f 
         - **Validation and Exception Handling in Spring Boot.** https://medium.com/@ovinduuu/validation-and-exception-handling-in-spring-boot-ea226861938c 
         - **Spring Boot Custom Validation.** https://medium.com/@bereketberhe27/spring-boot-custom-validation-7af89a64f805 
