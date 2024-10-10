@@ -28,7 +28,8 @@ Ceci est un outil d'aide mémoire pour tout ce qui est développement logiciel.
 
 - **SQL et BD.** 
     - **SQL.** https://www.w3schools.com/sql/default.asp 
-    - **MySQL.** hhttps://www.w3schools.com/mysql/default.asp
+    - **MySQL.** https://www.w3schools.com/mysql/default.asp 
+    - **PostgreSQL.** https://www.w3schools.com/postgresql/index.php
 
 ### Ramesh Fadatare
  - **Ramesh Fadatare.**
