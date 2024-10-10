@@ -12,6 +12,25 @@ Ceci est un outil d'aide mémoire pour tout ce qui est développement logiciel.
 
 ## Documentation de refference 
 
+### W3schools
+
+- **Front-end.** 
+    - **HTML.** https://www.w3schools.com/html/default.asp 
+    - **CSS.** https://www.w3schools.com/css/default.asp 
+    - **JavaScript.** https://www.w3schools.com/js/default.asp
+    - **JQuery.** https://www.w3schools.com/jquery/default.asp
+    - **TypeScript.** https://www.w3schools.com/typescript/index.php
+    - **Bootstrap.** https://www.w3schools.com/bootstrap/bootstrap_ver.asp
+    - **React.** https://www.w3schools.com/react/default.asp
+
+- **Back-end.** 
+    - **Java.** https://www.w3schools.com/java/default.asp 
+
+- **SQL et BD.** 
+    - **SQL.** https://www.w3schools.com/sql/default.asp 
+    - **MySQL.** hhttps://www.w3schools.com/mysql/default.asp
+
+### Ramesh Fadatare
  - **Ramesh Fadatare.**
     - **Spring Boot Microservices API Gateway Example.** https://rameshfadatare.medium.com/spring-boot-microservices-api-gateway-example-948204ddedcf 
     - **Spring Boot + Spring Cloud Open Feign Microservices Communication Example.** https://www.javaguides.net/2022/10/spring-boot-microservices-communication-using-spring-cloud-open-feign.html
