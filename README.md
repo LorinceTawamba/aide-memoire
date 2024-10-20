@@ -68,9 +68,7 @@ Ceci est un outil d'aide mémoire pour tout ce qui est développement logiciel.
  - **Spring Boot Exception Handling and Request Validation.** https://medium.com/@Lakshitha_Fernando/spring-boot-exception-handling-and-request-validation-74db7d83b886
 
 
-
-
-
+### A REORGANISER 
 
  - **Java**
     - **Java® Platform, Standard Edition & Java Development Kit Version 17 API Specification.** https://docs.oracle.com/en/java/javase/17/docs/api/index.html
