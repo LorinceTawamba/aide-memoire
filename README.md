@@ -35,7 +35,7 @@ Ceci est un outil d'aide mémoire pour tout ce qui est développement logiciel.
     - **Git** https://www.w3schools.com/git/default.asp
 
 ### Ramesh Fadatare
- - **Microservices.**
+- **Microservices.**
     - **Spring Boot Microservices API Gateway Example.** https://rameshfadatare.medium.com/spring-boot-microservices-api-gateway-example-948204ddedcf 
     - **Spring Boot + Spring Cloud Open Feign Microservices Communication Example.** https://www.javaguides.net/2022/10/spring-boot-microservices-communication-using-spring-cloud-open-feign.html
     - **Spring Boot Microservices Communication Example using RestTemplate.** https://www.javaguides.net/2022/10/spring-boot-microservices-communication-using-resttemplate.html
@@ -55,17 +55,21 @@ Ceci est un outil d'aide mémoire pour tout ce qui est développement logiciel.
     - **React JS + Spring Boot Microservices Tutoriale.** https://www.sourcecodeexamples.net/2024/05/react-js-spring-boot-microservices-tutorial.html 
     - **Java Stream ofNullable() Method with Examples.** https://rameshfadatare.medium.com/java-stream-ofnullable-method-with-examples-d2265648225b 
 
- - **Java.**
+- **Java.**
     - **Java Stream.** https://www.rameshfadatare.com/java-stream/java-stream/  
 
 
- - **Source code examples.** https://www.sourcecodeexamples.net/
+- **Source code examples.** https://www.sourcecodeexamples.net/
     - **Spring Boot Microservices E-Commerce Project: Step-by-Step Tutorial.** https://www.sourcecodeexamples.net/2024/05/spring-boot-microservices-e-commerce-project.html 
     - **Spring Boot 3 and Hibernate 6 Example.** https://www.sourcecodeexamples.net/2024/05/spring-boot-3-and-hibernate-6-example.html
 
 ### Spring Boot 
 
- - **Spring Boot Exception Handling and Request Validation.** https://medium.com/@Lakshitha_Fernando/spring-boot-exception-handling-and-request-validation-74db7d83b886
+- **Spring Boot Exception Handling and Request Validation.** https://medium.com/@Lakshitha_Fernando/spring-boot-exception-handling-and-request-validation-74db7d83b886 
+
+- **How to Use Spring Boot Eureka Server in Spring Boot 3.3.0+.** https://javafullstackdev.medium.com/how-to-use-spring-boot-eureka-server-in-spring-boot-3-3-0-794e8d173d9e 
+
+- **How to Set Up and Manage Multiple Databases in Spring Boot Microservices.** https://javafullstackdev.medium.com/how-to-set-up-and-manage-multiple-databases-in-spring-boot-microservices-126d0e129ce8
 
 
 ### A REORGANISER 
