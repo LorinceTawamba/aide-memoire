@@ -36,6 +36,10 @@ Ceci est un outil d'aide mémoire pour tout ce qui est développement logiciel.
 
 ### Ramesh Fadatare
 - **Microservices.**
+    - **Spring Boot CRUD Example with PostgreSQL.** https://rameshfadatare.medium.com/spring-boot-crud-example-with-postgresql-926c87f0129a
+    - **Spring Boot React CRUD Full Stack Application.** https://rameshfadatare.medium.com/spring-boot-react-crud-full-stack-application-762b4a1c3c8d
+    - **Spring Boot MongoDB CRUD REST API Example.** https://rameshfadatare.medium.com/spring-boot-mongodb-crud-rest-api-example-c5564bccef74 
+
     - **Spring Boot Microservices API Gateway Example.** https://rameshfadatare.medium.com/spring-boot-microservices-api-gateway-example-948204ddedcf 
     - **Spring Boot + Spring Cloud Open Feign Microservices Communication Example.** https://www.javaguides.net/2022/10/spring-boot-microservices-communication-using-spring-cloud-open-feign.html
     - **Spring Boot Microservices Communication Example using RestTemplate.** https://www.javaguides.net/2022/10/spring-boot-microservices-communication-using-resttemplate.html
