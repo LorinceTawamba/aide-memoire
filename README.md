@@ -21,7 +21,14 @@ Ceci est un outil d'aide mémoire pour tout ce qui est développement logiciel.
     - **JQuery.** https://www.w3schools.com/jquery/default.asp
     - **TypeScript.** https://www.w3schools.com/typescript/index.php
     - **Bootstrap.** https://www.w3schools.com/bootstrap/bootstrap_ver.asp
-    - **React.** https://www.w3schools.com/react/default.asp
+    - **React.** 
+        - **Vite.** https://vite.dev/guide/ 
+        - **Bien démarrer.** https://fr.legacy.reactjs.org/docs/getting-started.html
+        - **React.** https://www.w3schools.com/react/default.asp
+    - **Tailwind.** 
+        - **Tailwind CSS.** https://tailwindcss.com/docs/guides/vite
+        - **Flowbite - Tailwind CSS component library.** https://flowbite.com/docs/getting-started/introduction/ 
+        - **React.** https://www.w3schools.com/react/default.asp
 
 - **Back-end.** 
     - **Java.** https://www.w3schools.com/java/default.asp 
@@ -75,6 +82,7 @@ Ceci est un outil d'aide mémoire pour tout ce qui est développement logiciel.
 
 - **How to Set Up and Manage Multiple Databases in Spring Boot Microservices.** https://javafullstackdev.medium.com/how-to-set-up-and-manage-multiple-databases-in-spring-boot-microservices-126d0e129ce8
 
+- **Mastering Spring Boot Service Discovery and Registration using Spring Cloud Netflix Eureka: A Comprehensive Guide.** https://medium.com/@ksaquib/mastering-spring-boot-service-discovery-and-registration-using-spring-cloud-netflix-eureka-a-1eec70317b32 
 
 ### A REORGANISER 
 
