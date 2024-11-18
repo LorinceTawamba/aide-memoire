@@ -81,6 +81,7 @@ Ceci est un outil d'aide mémoire pour tout ce qui est développement logiciel.
 
 ### Ramesh Fadatare
 - **Microservices.** 
+    - **Spring Boot CRUD Example with H2 Database: Step-by-Step Guide.** https://rameshfadatare.medium.com/spring-boot-crud-example-with-h2-database-step-by-step-guide-921d41640bc0
     - **Spring Boot CRUD REST API with MySQL and Java Record DTO: Step-by-Step Guide.** https://rameshfadatare.medium.com/spring-boot-crud-rest-api-with-mysql-and-java-record-dto-step-by-step-guide-4096b9bd5cfe
     - **Spring Boot Microservices with Docker Compose Example.** https://rameshfadatare.medium.com/spring-boot-microservices-with-docker-compose-example-5952a390c76e 
     - **Spring Boot CRUD Example with PostgreSQL.** https://rameshfadatare.medium.com/spring-boot-crud-example-with-postgresql-926c87f0129a
