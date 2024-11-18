@@ -3,7 +3,10 @@
 ## Table de matières 
 
 - [Introduction](#Introduction) 
-- [Documentation de refference](#Documentation-de-refference)
+- [Documentation de refference](#Documentation-de-refference) 
+    - [Front-end](#Front-end) 
+    - [Back-end](#Back-end)
+    - [Ramesh Fadatare](#Ramesh-Fadatare)
 - [Contributors](#contributors)
 
 ## Introduction 
@@ -12,37 +15,73 @@ Ceci est un outil d'aide mémoire pour tout ce qui est développement logiciel.
 
 ## Documentation de refference 
 
-### W3schools
+### Front-end 
 
-- **Front-end.** 
+- ***HTML.*** 
     - **HTML.** https://www.w3schools.com/html/default.asp 
+
+- ***CSS.***
     - **CSS.** https://www.w3schools.com/css/default.asp 
+
+- ***JavaScript.***
     - **JavaScript.** https://www.w3schools.com/js/default.asp
+
+- ***JQuery.***
     - **JQuery.** https://www.w3schools.com/jquery/default.asp
+
+- ***TypeScript.***
     - **TypeScript.** https://www.w3schools.com/typescript/index.php
+
+- ***Bootstrap.***
     - **Bootstrap.** https://www.w3schools.com/bootstrap/bootstrap_ver.asp
-    - **React.** 
-        - **Vite.** https://vite.dev/guide/ 
-        - **Bien démarrer.** https://fr.legacy.reactjs.org/docs/getting-started.html
-        - **React.** https://www.w3schools.com/react/default.asp
+
+- ***React.*** 
+    - **Vite.** https://vite.dev/guide/ 
+    - **Bien démarrer.** https://fr.legacy.reactjs.org/docs/getting-started.html
+    - **React.** https://www.w3schools.com/react/default.asp
     - **Tailwind.** 
         - **Tailwind CSS.** https://tailwindcss.com/docs/guides/vite
         - **Flowbite - Tailwind CSS component library.** https://flowbite.com/docs/getting-started/introduction/ 
-        - **React.** https://www.w3schools.com/react/default.asp
 
-- **Back-end.** 
+### Back-end
+
+- **Java.** 
     - **Java.** https://www.w3schools.com/java/default.asp 
+    - **Java Stream.** https://www.rameshfadatare.com/java-stream/java-stream/
+    - **Java Date & Time** 
+        - **Handling Timezones in a Spring Boot Application.** https://reflectoring.io/spring-timezones/ 
+    - **Structure de données avancées**
+        - **TreeMap** https://waytolearnx.com/2020/03/treemap-java.html 
+        - **TreeMap** https://codegym.cc/fr/groups/posts/fr.297.treemap-en-java 
+        - **TreeMap** https://www.codecademy.com/resources/docs/java/treemap  
+        - **HashMap** hhttps://javarush.com/fr/groups/posts/fr.813.comment-fonctionne-hashmap-en-java-
+        - **HashMap** https://www.data-transitionnumerique.com/java-hashmap/#:~:text=2%20%E2%80%93%20La%20collection%20HashMap,dans%20des%20paires%20cl%C3%A9%2Fvaleur.
+        - **HashMap** https://javarush.com/fr/groups/posts/fr.732.comment-fonctionne-hashmap-en-java
 
 - **SQL et BD.** 
     - **SQL.** https://www.w3schools.com/sql/default.asp 
     - **MySQL.** https://www.w3schools.com/mysql/default.asp 
     - **PostgreSQL.** https://www.w3schools.com/postgresql/index.php 
 
+- **Spring Boot.**
+    - **Spring Boot Exception Handling and Request Validation.** https://medium.com/@Lakshitha_Fernando/spring-boot-exception-handling-and-request-validation-74db7d83b886 
+
+    - **How to Use Spring Boot Eureka Server in Spring Boot 3.3.0+.** https://javafullstackdev.medium.com/how-to-use-spring-boot-eureka-server-in-spring-boot-3-3-0-794e8d173d9e 
+
+    - **How to Set Up and Manage Multiple Databases in Spring Boot Microservices.** https://javafullstackdev.medium.com/how-to-set-up-and-manage-multiple-databases-in-spring-boot-microservices-126d0e129ce8
+
+    - **Mastering Spring Boot Service Discovery and Registration using Spring Cloud Netflix Eureka: A Comprehensive Guide.** https://medium.com/@ksaquib/mastering-spring-boot-service-discovery-and-registration-using-spring-cloud-netflix-eureka-a-1eec70317b32 
+
+    - **Spring Boot Microservices E-Commerce Project: Step-by-Step Tutorial.** https://www.sourcecodeexamples.net/2024/05/spring-boot-microservices-e-commerce-project.html 
+
+    - **Spring Boot 3 and Hibernate 6 Example.** https://www.sourcecodeexamples.net/2024/05/spring-boot-3-and-hibernate-6-example.html
+
 - **CI/CD.** 
     - **Git** https://www.w3schools.com/git/default.asp
 
 ### Ramesh Fadatare
 - **Microservices.**
+    - **Spring Boot Microservices with Docker Compose Example.** https://rameshfadatare.medium.com/spring-boot-microservices-with-docker-compose-example-5952a390c76e 
     - **Spring Boot CRUD Example with PostgreSQL.** https://rameshfadatare.medium.com/spring-boot-crud-example-with-postgresql-926c87f0129a
     - **Spring Boot React CRUD Full Stack Application.** https://rameshfadatare.medium.com/spring-boot-react-crud-full-stack-application-762b4a1c3c8d
     - **Spring Boot MongoDB CRUD REST API Example.** https://rameshfadatare.medium.com/spring-boot-mongodb-crud-rest-api-example-c5564bccef74 
@@ -65,25 +104,7 @@ Ceci est un outil d'aide mémoire pour tout ce qui est développement logiciel.
     - **Angular Spring Boot Microservices Example.** https://www.javaguides.net/2024/05/angular-spring-boot-microservices.html 
     - **React JS + Spring Boot Microservices Tutoriale.** https://www.sourcecodeexamples.net/2024/05/react-js-spring-boot-microservices-tutorial.html 
     - **Java Stream ofNullable() Method with Examples.** https://rameshfadatare.medium.com/java-stream-ofnullable-method-with-examples-d2265648225b 
-
-- **Java.**
-    - **Java Stream.** https://www.rameshfadatare.com/java-stream/java-stream/  
-
-
-- **Source code examples.** https://www.sourcecodeexamples.net/
-    - **Spring Boot Microservices E-Commerce Project: Step-by-Step Tutorial.** https://www.sourcecodeexamples.net/2024/05/spring-boot-microservices-e-commerce-project.html 
-    - **Spring Boot 3 and Hibernate 6 Example.** https://www.sourcecodeexamples.net/2024/05/spring-boot-3-and-hibernate-6-example.html
-
-### Spring Boot 
-
-- **Spring Boot Exception Handling and Request Validation.** https://medium.com/@Lakshitha_Fernando/spring-boot-exception-handling-and-request-validation-74db7d83b886 
-
-- **How to Use Spring Boot Eureka Server in Spring Boot 3.3.0+.** https://javafullstackdev.medium.com/how-to-use-spring-boot-eureka-server-in-spring-boot-3-3-0-794e8d173d9e 
-
-- **How to Set Up and Manage Multiple Databases in Spring Boot Microservices.** https://javafullstackdev.medium.com/how-to-set-up-and-manage-multiple-databases-in-spring-boot-microservices-126d0e129ce8
-
-- **Mastering Spring Boot Service Discovery and Registration using Spring Cloud Netflix Eureka: A Comprehensive Guide.** https://medium.com/@ksaquib/mastering-spring-boot-service-discovery-and-registration-using-spring-cloud-netflix-eureka-a-1eec70317b32 
-
+  
 ### A REORGANISER 
 
  - **Java**
@@ -164,15 +185,7 @@ Ceci est un outil d'aide mémoire pour tout ce qui est développement logiciel.
         - **Chapter 13 JavaDoc.** https://cs.gmu.edu/~marks/211/textbook/13-javadoc.pdf
         - **Introduction to Javadoc.** https://www.baeldung.com/javadoc  
         - **Spring Boot 3 Template (Part 7) — Swagger - TRES BIEN ET PRATIQUE.** https://medium.com/@yohanesdwikiwitman/spring-boot-3-template-part-7-configuring-swagger-9b00ceb8a81f 
-    - **Java Date & Time** 
-        - **Handling Timezones in a Spring Boot Application.** https://reflectoring.io/spring-timezones/ 
-     - **Structure de données avancées**
-        - **TreeMap** https://waytolearnx.com/2020/03/treemap-java.html 
-        - **TreeMap** https://codegym.cc/fr/groups/posts/fr.297.treemap-en-java 
-        - **TreeMap** https://www.codecademy.com/resources/docs/java/treemap  
-        - **HashMap** hhttps://javarush.com/fr/groups/posts/fr.813.comment-fonctionne-hashmap-en-java-
-        - **HashMap** https://www.data-transitionnumerique.com/java-hashmap/#:~:text=2%20%E2%80%93%20La%20collection%20HashMap,dans%20des%20paires%20cl%C3%A9%2Fvaleur.
-        - **HashMap** https://javarush.com/fr/groups/posts/fr.732.comment-fonctionne-hashmap-en-java
+
  - **Documentation IntelliJ IDEA.** https://www.jetbrains.com/help/idea/getting-started.html 
  - **JUnit 5 User Guide.** https://junit.org/junit5/docs/current/user-guide/ 
  - **Git**
