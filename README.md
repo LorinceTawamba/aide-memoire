@@ -63,9 +63,11 @@ Ceci est un outil d'aide mémoire pour tout ce qui est développement logiciel.
     - **MySQL.** https://www.w3schools.com/mysql/default.asp 
     - **PostgreSQL.** https://www.w3schools.com/postgresql/index.php 
 
-- **Spring Boot.** 
+- **Spring Boot 3 and Spring Cloud.** 
+    - **Microservices with Spring Boot 3 and Spring Cloud (CECI EST TRES BIEN ET TRES PRATIQUE).** https://piotrminkowski.com/2023/03/13/microservices-with-spring-boot-3-and-spring-cloud/
+
     - **Creating Profiles in Spring Cloud Config Server.** https://www.geeksforgeeks.org/creating-profiles-in-spring-cloud-config-server/
-    
+
     - **Spring Boot Exception Handling and Request Validation.** https://medium.com/@Lakshitha_Fernando/spring-boot-exception-handling-and-request-validation-74db7d83b886 
 
     - **How to Use Spring Boot Eureka Server in Spring Boot 3.3.0+.** https://javafullstackdev.medium.com/how-to-use-spring-boot-eureka-server-in-spring-boot-3-3-0-794e8d173d9e 
