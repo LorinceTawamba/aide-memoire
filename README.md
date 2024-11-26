@@ -64,6 +64,8 @@ Ceci est un outil d'aide mémoire pour tout ce qui est développement logiciel.
     - **PostgreSQL.** https://www.w3schools.com/postgresql/index.php 
 
 - **Spring Boot 3 and Spring Cloud.** 
+    - **The Best Way to Structure API Responses in Spring Boot.** https://medium.com/@dulanjayasandaruwan1998/the-best-way-to-structure-api-responses-in-spring-boot-23eb6892daab 
+
     - **Microservices with Spring Boot 3 and Spring Cloud (CECI EST TRES BIEN ET TRES PRATIQUE).** https://piotrminkowski.com/2023/03/13/microservices-with-spring-boot-3-and-spring-cloud/
 
     - **Creating Profiles in Spring Cloud Config Server.** https://www.geeksforgeeks.org/creating-profiles-in-spring-cloud-config-server/
@@ -175,6 +177,7 @@ Ceci est un outil d'aide mémoire pour tout ce qui est développement logiciel.
         - **Java Stream of() Method with Examples.** https://rameshfadatare.medium.com/java-stream-of-method-with-examples-43cbffd91eac 
         - **Java Stream distinct() Method with Examples.** https://rameshfadatare.medium.com/java-stream-distinct-method-with-examples-2ffc7db4b40e
         - **Java Stream filter() Examples.** https://rameshfadatare.medium.com/java-stream-filter-examples-7da5c00c3719 
+        - **Java Stream findAny() Method with Examples.** https://rameshfadatare.medium.com/java-stream-findany-method-with-examples-7587e37e9c6f 
         - **Dockerizing a Spring Boot Application.** https://rameshfadatare.medium.com/dockerizing-a-spring-boot-application-b2b915e21367
     - **Docker Compose: Spring Boot and Postgres examplec (TRES BON EXEMPLE).** https://dev.to/tienbku/docker-compose-spring-boot-and-postgres-example-4l82 
     - **Java IO Tutorial.** https://mkyong.com/tutorials/java-io-tutorials/
