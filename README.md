@@ -64,7 +64,9 @@ Ceci est un outil d'aide mémoire pour tout ce qui est développement logiciel.
     - **PostgreSQL.** https://www.w3schools.com/postgresql/index.php 
 
 - **Spring Boot 3 and Spring Cloud.** 
-    - **The Best Way to Structure API Responses in Spring Boot.** https://medium.com/@dulanjayasandaruwan1998/the-best-way-to-structure-api-responses-in-spring-boot-23eb6892daab 
+    - **Using Lombok in Spring Boot: Simplifying Your Code.** https://medium.com/devdomain/using-lombok-in-spring-boot-simplifying-your-code-c38057894cb8 
+
+    - **The Best Way to Structure API Responses in Spring Boot.** https://medium.com/@dulanjayasandaruwan1998/the-best-way-to-structure-api-responses-in-spring-boot-23eb6892daab
 
     - **Microservices with Spring Boot 3 and Spring Cloud (CECI EST TRES BIEN ET TRES PRATIQUE).** https://piotrminkowski.com/2023/03/13/microservices-with-spring-boot-3-and-spring-cloud/
 
