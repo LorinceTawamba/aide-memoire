@@ -46,6 +46,7 @@ Ceci est un outil d'aide mémoire pour tout ce qui est développement logiciel.
 ### Back-end
 
 - **Java.** 
+    - **What are Generics in java.** https://medium.com/@jcoder967/what-are-generics-in-java-a4ceded601e9 
     - **Java.** https://www.w3schools.com/java/default.asp 
     - **Java Stream.** https://www.rameshfadatare.com/java-stream/java-stream/
     - **Java Date & Time** 
