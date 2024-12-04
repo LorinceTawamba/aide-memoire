@@ -85,8 +85,10 @@ Ceci est un outil d'aide mémoire pour tout ce qui est développement logiciel.
 
     - **Spring Boot 3 and Hibernate 6 Example.** https://www.sourcecodeexamples.net/2024/05/spring-boot-3-and-hibernate-6-example.html
 
-- **CI/CD.** 
-    - **Git** https://www.w3schools.com/git/default.asp
+- **DevOpps CI/CD.** 
+    - **Git** https://www.w3schools.com/git/default.asp 
+    - **GitLab Documentation** https://docs.gitlab.com/ 
+    - **GitLab Runner Documentation** https://docs.gitlab.com/runner/
 
 ### Ramesh Fadatare
 - **Microservices.** 
