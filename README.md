@@ -37,8 +37,11 @@ Ceci est un outil d'aide mémoire pour tout ce qui est développement logiciel.
 
 - ***React.*** 
     - **Vite.** https://vite.dev/guide/ 
-    - **Bien démarrer.** https://fr.legacy.reactjs.org/docs/getting-started.html
-    - **React.** https://www.w3schools.com/react/default.asp
+
+    - **Bien démarrer.** https://fr.legacy.reactjs.org/docs/getting-started.html 
+
+    - **React.** https://www.w3schools.com/react/default.asp 
+
     - **Tailwind.** 
         - **Tailwind CSS.** https://tailwindcss.com/docs/guides/vite
         - **Flowbite - Tailwind CSS component library.** https://flowbite.com/docs/getting-started/introduction/ 
@@ -47,21 +50,32 @@ Ceci est un outil d'aide mémoire pour tout ce qui est développement logiciel.
 
 - **Java.** 
     - **What are Generics in java.** https://medium.com/@jcoder967/what-are-generics-in-java-a4ceded601e9 
+
     - **Java.** https://www.w3schools.com/java/default.asp 
-    - **Java Stream.** https://www.rameshfadatare.com/java-stream/java-stream/
+
+    - **Java Stream.** https://www.rameshfadatare.com/java-stream/java-stream/ 
+
     - **Java Date & Time** 
         - **Handling Timezones in a Spring Boot Application.** https://reflectoring.io/spring-timezones/ 
+
     - **Structure de données avancées**
         - **TreeMap** https://waytolearnx.com/2020/03/treemap-java.html 
+
         - **TreeMap** https://codegym.cc/fr/groups/posts/fr.297.treemap-en-java 
+
         - **TreeMap** https://www.codecademy.com/resources/docs/java/treemap  
-        - **HashMap** hhttps://javarush.com/fr/groups/posts/fr.813.comment-fonctionne-hashmap-en-java-
-        - **HashMap** https://www.data-transitionnumerique.com/java-hashmap/#:~:text=2%20%E2%80%93%20La%20collection%20HashMap,dans%20des%20paires%20cl%C3%A9%2Fvaleur.
+
+        - **HashMap** hhttps://javarush.com/fr/groups/posts/fr.813.comment-fonctionne-hashmap-en-java- 
+
+        - **HashMap** https://www.data-transitionnumerique.com/java-hashmap/#:~:text=2%20%E2%80%93%20La%20collection%20HashMap,dans%20des%20paires%20cl%C3%A9%2Fvaleur. 
+
         - **HashMap** https://javarush.com/fr/groups/posts/fr.732.comment-fonctionne-hashmap-en-java
 
 - **SQL et BD.** 
     - **SQL.** https://www.w3schools.com/sql/default.asp 
+
     - **MySQL.** https://www.w3schools.com/mysql/default.asp 
+
     - **PostgreSQL.** https://www.w3schools.com/postgresql/index.php 
 
 - **Spring Boot 3 and Spring Cloud.** 
@@ -87,36 +101,60 @@ Ceci est un outil d'aide mémoire pour tout ce qui est développement logiciel.
 
 - **DevOpps CI/CD.** 
     - **Git** https://www.w3schools.com/git/default.asp 
+
     - **GitLab Documentation** https://docs.gitlab.com/ 
+
     - **GitLab Runner Documentation** https://docs.gitlab.com/runner/
 
 ### Ramesh Fadatare
 - **Microservices.** 
     - **25+ Spring and Spring Boot Annotations.** https://rameshfadatare.medium.com/25-spring-and-spring-boot-annotations-e9d3a16a545b 
-    - **Spring Boot CRUD Example with H2 Database: Step-by-Step Guide.** https://rameshfadatare.medium.com/spring-boot-crud-example-with-h2-database-step-by-step-guide-921d41640bc0
-    - **Spring Boot CRUD REST API with MySQL and Java Record DTO: Step-by-Step Guide.** https://rameshfadatare.medium.com/spring-boot-crud-rest-api-with-mysql-and-java-record-dto-step-by-step-guide-4096b9bd5cfe
+
+    - **Spring Boot CRUD Example with H2 Database: Step-by-Step Guide.** https://rameshfadatare.medium.com/spring-boot-crud-example-with-h2-database-step-by-step-guide-921d41640bc0 
+
+    - **Spring Boot CRUD REST API with MySQL and Java Record DTO: Step-by-Step Guide.** https://rameshfadatare.medium.com/spring-boot-crud-rest-api-with-mysql-and-java-record-dto-step-by-step-guide-4096b9bd5cfe 
+
     - **Spring Boot Microservices with Docker Compose Example.** https://rameshfadatare.medium.com/spring-boot-microservices-with-docker-compose-example-5952a390c76e 
-    - **Spring Boot CRUD Example with PostgreSQL.** https://rameshfadatare.medium.com/spring-boot-crud-example-with-postgresql-926c87f0129a
-    - **Spring Boot React CRUD Full Stack Application.** https://rameshfadatare.medium.com/spring-boot-react-crud-full-stack-application-762b4a1c3c8d
+
+    - **Spring Boot CRUD Example with PostgreSQL.** https://rameshfadatare.medium.com/spring-boot-crud-example-with-postgresql-926c87f0129a 
+
+    - **Spring Boot React CRUD Full Stack Application.** https://rameshfadatare.medium.com/spring-boot-react-crud-full-stack-application-762b4a1c3c8d 
+
     - **Spring Boot MongoDB CRUD REST API Example.** https://rameshfadatare.medium.com/spring-boot-mongodb-crud-rest-api-example-c5564bccef74 
 
     - **Spring Boot Microservices API Gateway Example.** https://rameshfadatare.medium.com/spring-boot-microservices-api-gateway-example-948204ddedcf 
-    - **Spring Boot + Spring Cloud Open Feign Microservices Communication Example.** https://www.javaguides.net/2022/10/spring-boot-microservices-communication-using-spring-cloud-open-feign.html
-    - **Spring Boot Microservices Communication Example using RestTemplate.** https://www.javaguides.net/2022/10/spring-boot-microservices-communication-using-resttemplate.html
+
+    - **Spring Boot + Spring Cloud Open Feign Microservices Communication Example.** https://www.javaguides.net/2022/10/spring-boot-microservices-communication-using-spring-cloud-open-feign.html 
+
+    - **Spring Boot Microservices Communication Example using RestTemplate.** https://www.javaguides.net/2022/10/spring-boot-microservices-communication-using-resttemplate.html 
+
     - **Spring Boot Microservices Communication Example using WebClient.** https://www.javaguides.net/2022/10/spring-boot-microservices-communication-using-webclient.html 
+
     - **Spring Boot Microservices - Spring Cloud Config Server.** https://www.javaguides.net/2022/10/spring-boot-microservices-spring-cloud-config-server.html 
+
     - **Spring Boot Microservices - Spring Cloud Netflix Eureka based Service Registry.** https://www.javaguides.net/2022/10/spring-boot-microservices-spring-cloud-netflix-eureka-.html 
-    - **Spring Boot Microservices - Spring Cloud API Gateway.** https://www.javaguides.net/2022/10/spring-boot-microservices-spring-cloud-api-gateway.html
+
+    - **Spring Boot Microservices - Spring Cloud API Gateway.** https://www.javaguides.net/2022/10/spring-boot-microservices-spring-cloud-api-gateway.html 
+
     - **Spring Boot Microservices API Gateway with Automatic Routes Mapping.** https://www.javaguides.net/2024/05/spring-boot-microservices-api-gateway-automatic-routes-mapping.html 
+
     - **Spring Cloud API Gateway Global Filter Example - Spring Boot Microservices.** https://www.javaguides.net/2024/05/spring-cloud-api-gateway-global-filter.html 
+
     - **Event-Driven Microservices using Spring Boot and Kafka.** https://www.javaguides.net/2022/07/event-driven-microservices-using-spring-boot-and-apache-kafka.html 
+
     - **Spring Boot Microservices with RabbitMQ Example.** https://www.sourcecodeexamples.net/2024/05/spring-boot-microservices-with-rabbitmq.html 
-    - **Spring Boot Microservices with Apache Kafka Example.** https://www.sourcecodeexamples.net/2024/05/spring-boot-microservices-with-apache-kafka-example.html
+
+    - **Spring Boot Microservices with Apache Kafka Example.** https://www.sourcecodeexamples.net/2024/05/spring-boot-microservices-with-apache-kafka-example.html 
+
     - **Spring Boot Microservices REST API Example.** https://www.sourcecodeexamples.net/2024/05/spring-boot-microservices-rest-api.html 
     - **Spring Boot Microservices with Spring Cloud Stream Example.** https://www.sourcecodeexamples.net/2024/05/spring-boot-microservices-with-spring-cloud-stream-example.html 
+
     - **Spring Boot Microservices with Spring Cloud Stream Example.** https://www.sourcecodeexamples.net/2024/05/spring-boot-microservices-with-spring-cloud-stream-example.html 
+
     - **Angular Spring Boot Microservices Example.** https://www.javaguides.net/2024/05/angular-spring-boot-microservices.html 
+
     - **React JS + Spring Boot Microservices Tutoriale.** https://www.sourcecodeexamples.net/2024/05/react-js-spring-boot-microservices-tutorial.html 
+    
     - **Java Stream ofNullable() Method with Examples.** https://rameshfadatare.medium.com/java-stream-ofnullable-method-with-examples-d2265648225b 
   
 ### A REORGANISER 
