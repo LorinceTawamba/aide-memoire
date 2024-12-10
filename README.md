@@ -49,7 +49,9 @@ Ceci est un outil d'aide mémoire pour tout ce qui est développement logiciel.
 ### Back-end
 
 - **Java.** 
-    - **What are Generics in java.** https://medium.com/@jcoder967/what-are-generics-in-java-a4ceded601e9 
+    - **An Introduction to Functional Programming in Java.** https://medium.com/@dulanjayasandaruwan1998/an-introduction-to-functional-programming-in-java-3c7f3493affc 
+
+    - **What are Generics in java.** https://medium.com/@jcoder967/what-are-generics-in-java-a4ceded601e9
 
     - **Java.** https://www.w3schools.com/java/default.asp 
 
@@ -79,6 +81,8 @@ Ceci est un outil d'aide mémoire pour tout ce qui est développement logiciel.
     - **PostgreSQL.** https://www.w3schools.com/postgresql/index.php 
 
 - **Spring Boot 3 and Spring Cloud.** 
+    - **How to use Mapstruct with Spring Boot.** https://hkdemircan.medium.com/how-to-use-mapstruct-with-spring-boot-6e89a514c2df
+    
     - **Using Lombok in Spring Boot: Simplifying Your Code.** https://medium.com/devdomain/using-lombok-in-spring-boot-simplifying-your-code-c38057894cb8 
 
     - **The Best Way to Structure API Responses in Spring Boot.** https://medium.com/@dulanjayasandaruwan1998/the-best-way-to-structure-api-responses-in-spring-boot-23eb6892daab
