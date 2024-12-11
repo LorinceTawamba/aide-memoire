@@ -81,6 +81,8 @@ Ceci est un outil d'aide mémoire pour tout ce qui est développement logiciel.
     - **PostgreSQL.** https://www.w3schools.com/postgresql/index.php 
 
 - **Spring Boot 3 and Spring Cloud.** 
+    - **Implementing Pagination, Sorting, and Filtering in Spring Boot.** https://medium.com/@atharvaja.10/implementing-pagination-sorting-and-filtering-in-spring-boot-42615dbd74a7 
+
     - **How to use Mapstruct with Spring Boot.** https://hkdemircan.medium.com/how-to-use-mapstruct-with-spring-boot-6e89a514c2df
     
     - **Using Lombok in Spring Boot: Simplifying Your Code.** https://medium.com/devdomain/using-lombok-in-spring-boot-simplifying-your-code-c38057894cb8 
