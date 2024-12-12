@@ -11,7 +11,7 @@
 
 ## Introduction 
 
-Test :: Ceci est un outil d'aide mémoire pour tout ce qui est développement logiciel.  
+Ceci est un outil d'aide mémoire pour tout ce qui est développement logiciel.  
 
 ## Documentation de refference 
 
