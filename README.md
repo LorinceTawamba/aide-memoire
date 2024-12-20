@@ -49,6 +49,10 @@ Ceci est un outil d'aide mémoire pour tout ce qui est développement logiciel.
 ### Back-end
 
 - **Java.** 
+    - **How to Use Spring ResponseEntity to Manipulate the HTTP Response?.** https://medium.com/https://www.geeksforgeeks.org/how-to-use-spring-responseentity-to-manipulate-the-http-response/
+    
+    - **Spring Boot: RequestEntity vs ResponseEntity | RequestBody vs ResponseBody.** https://medium.com/@daryl-goh/spring-boot-requestentity-vs-responseentity-requestbody-vs-responsebody-dc808fb0d86c
+
     - **An Introduction to Functional Programming in Java.** https://medium.com/@dulanjayasandaruwan1998/an-introduction-to-functional-programming-in-java-3c7f3493affc 
 
     - **What are Generics in java.** https://medium.com/@jcoder967/what-are-generics-in-java-a4ceded601e9
