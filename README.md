@@ -49,6 +49,8 @@ Ceci est un outil d'aide mémoire pour tout ce qui est développement logiciel.
 ### Back-end
 
 - **Java.** 
+    - **Using Spring ResponseEntity to Manipulate the HTTP Response.** https://mnachit.medium.com/using-spring-responseentity-to-manipulate-the-http-response-ed7d478023e8
+    
     - **How to Use Spring ResponseEntity to Manipulate the HTTP Response?.** https://www.geeksforgeeks.org/how-to-use-spring-responseentity-to-manipulate-the-http-response/
     
     - **Spring Boot: RequestEntity vs ResponseEntity | RequestBody vs ResponseBody.** https://medium.com/@daryl-goh/spring-boot-requestentity-vs-responseentity-requestbody-vs-responsebody-dc808fb0d86c
