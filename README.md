@@ -49,6 +49,10 @@ Ceci est un outil d'aide mémoire pour tout ce qui est développement logiciel.
 ### Back-end
 
 - **Java.** 
+    - **Packages in Java: A Detailed Tutorial with Examples.** https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox/FMfcgzQXKqqNjrtwXDmLDtstHxVrRWpk 
+
+    - **Spring Boot Annotations in RESTful Web Services.** https://medium.com/@satyendra.jaiswal/spring-boot-annotations-in-restful-web-services-57cfde61c150
+
     - **Using Spring ResponseEntity to Manipulate the HTTP Response.** https://mnachit.medium.com/using-spring-responseentity-to-manipulate-the-http-response-ed7d478023e8
     
     - **How to Use Spring ResponseEntity to Manipulate the HTTP Response?.** https://www.geeksforgeeks.org/how-to-use-spring-responseentity-to-manipulate-the-http-response/
